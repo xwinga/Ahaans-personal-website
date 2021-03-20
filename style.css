@@ -1,0 +1,34 @@
+#Ahaan {
+    font-size:50px;
+    color:azure;
+}
+#app {
+    width:100%;
+    height:800px;
+    Background-color:green;
+}
+#game {
+    width:100%;
+    height:800px;
+    background-color:blue;
+}
+#chatbot {
+    width:100%;
+    height:800px;
+    background-color:yellow;
+}
+.line {
+    height:6px;
+    background-color: aliceblue;
+    width:7px;
+    margin:8px auto;
+}
+img {
+    transition:transform 0.2s;
+}
+img:hover {
+    transform:scale(0.9);
+}
+body {
+    text-align:center;
+}
