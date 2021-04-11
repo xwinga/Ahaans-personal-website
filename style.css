@@ -1,34 +1,25 @@
-#Ahaan {
-    font-size:50px;
-    color:azure;
-}
 #app {
-    width:100%;
-    height:800px;
-    Background-color:green;
-}
-#game {
-    width:100%;
-    height:800px;
-    background-color:blue;
-}
-#chatbot {
-    width:100%;
-    height:800px;
-    background-color:yellow;
-}
-.line {
-    height:6px;
+    width: 100%;
+    height: 800px;
     background-color: aliceblue;
-    width:7px;
-    margin:8px auto;
 }
-img {
-    transition:transform 0.2s;
+
+.container
+{
+    text-align: center;
 }
-img:hover {
-    transform:scale(0.9);
+
+/*Start your code from here */
+#myCarousel {
+    background-color: red:
 }
-body {
-    text-align:center;
+#myCarouselimg{
+    hight:300px;
+    margin-top:35px;
+}
+.carousel-inner p {
+    margin-top: 15px;
+    margin-bottom:15px;
+    color:white;
+    font-size:20px;
 }
